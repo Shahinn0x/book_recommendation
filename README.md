@@ -63,6 +63,11 @@ You can use your own dataset or download one from:
 6. Displays the recommended books with their covers
 
 ---
+🔒 License
+This project is open-source and free to use under the MIT License.
+
+🙌 Acknowledgments
+Built with ❤️ using Streamlit and scikit-learn 
 
 ## ▶️ How to Run
 
@@ -72,4 +77,8 @@ You can use your own dataset or download one from:
 pip install -r requirements.txt
 
 streamlit run app.py
+
+
+
+Dataset inspired by Kaggle BookCrossing
 
