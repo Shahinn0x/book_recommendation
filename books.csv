@@ -1,0 +1,121 @@
+bookId,title,authors,image_url
+1,The Silent Patient Vol 3,Alex Michaelides,https://covers.openlibrary.org/b/id/8235093-L.jpg
+2,The Hunger Games Vol 1,Suzanne Collins,https://covers.openlibrary.org/b/id/8235082-L.jpg
+3,A Game of Thrones Vol 1,George R.R. Martin,https://covers.openlibrary.org/b/id/8235086-L.jpg
+4,The Girl on the Train Vol 5,Paula Hawkins,https://covers.openlibrary.org/b/id/8235087-L.jpg
+5,The Shining Vol 4,Stephen King,https://covers.openlibrary.org/b/id/8235088-L.jpg
+6,Harry Potter Vol 1,J.K. Rowling,https://covers.openlibrary.org/b/id/7984916-L.jpg
+7,It Vol 3,Stephen King,https://covers.openlibrary.org/b/id/8235089-L.jpg
+8,The Great Gatsby Vol 2,F. Scott Fitzgerald,https://covers.openlibrary.org/b/id/7352161-L.jpg
+9,1984 Vol 4,George Orwell,https://covers.openlibrary.org/b/id/7222246-L.jpg
+10,The Book Thief Vol 2,Markus Zusak,https://covers.openlibrary.org/b/id/8228692-L.jpg
+11,Atomic Habits Vol 1,James Clear,https://covers.openlibrary.org/b/id/8235092-L.jpg
+12,To Kill a Mockingbird Vol 5,Harper Lee,https://covers.openlibrary.org/b/id/8228691-L.jpg
+13,The Great Gatsby Vol 3,F. Scott Fitzgerald,https://covers.openlibrary.org/b/id/7352161-L.jpg
+14,The Fault in Our Stars Vol 1,John Green,https://covers.openlibrary.org/b/id/8235083-L.jpg
+15,The Silent Patient Vol 5,Alex Michaelides,https://covers.openlibrary.org/b/id/8235093-L.jpg
+16,A Game of Thrones Vol 4,George R.R. Martin,https://covers.openlibrary.org/b/id/8235086-L.jpg
+17,1984 Vol 2,George Orwell,https://covers.openlibrary.org/b/id/7222246-L.jpg
+18,The Book Thief Vol 5,Markus Zusak,https://covers.openlibrary.org/b/id/8228692-L.jpg
+19,Educated Vol 1,Tara Westover,https://covers.openlibrary.org/b/id/8235091-L.jpg
+20,1984 Vol 1,George Orwell,https://covers.openlibrary.org/b/id/7222246-L.jpg
+21,The Hunger Games Vol 5,Suzanne Collins,https://covers.openlibrary.org/b/id/8235082-L.jpg
+22,Atomic Habits Vol 5,James Clear,https://covers.openlibrary.org/b/id/8235092-L.jpg
+23,The Fault in Our Stars Vol 4,John Green,https://covers.openlibrary.org/b/id/8235083-L.jpg
+24,Angels & Demons Vol 4,Dan Brown,https://covers.openlibrary.org/b/id/8235085-L.jpg
+25,Becoming Vol 5,Michelle Obama,https://covers.openlibrary.org/b/id/8235090-L.jpg
+26,The Silent Patient Vol 2,Alex Michaelides,https://covers.openlibrary.org/b/id/8235093-L.jpg
+27,Pride and Prejudice Vol 5,Jane Austen,https://covers.openlibrary.org/b/id/8235081-L.jpg
+28,The Catcher in the Rye Vol 3,J.D. Salinger,https://covers.openlibrary.org/b/id/8235226-L.jpg
+29,Atomic Habits Vol 5,James Clear,https://covers.openlibrary.org/b/id/8235092-L.jpg
+30,The Silent Patient Vol 2,Alex Michaelides,https://covers.openlibrary.org/b/id/8235093-L.jpg
+31,The Fault in Our Stars Vol 2,John Green,https://covers.openlibrary.org/b/id/8235083-L.jpg
+32,The Catcher in the Rye Vol 5,J.D. Salinger,https://covers.openlibrary.org/b/id/8235226-L.jpg
+33,The Hobbit Vol 5,J.R.R. Tolkien,https://covers.openlibrary.org/b/id/6979861-L.jpg
+34,The Great Gatsby Vol 4,F. Scott Fitzgerald,https://covers.openlibrary.org/b/id/7352161-L.jpg
+35,The Hobbit Vol 2,J.R.R. Tolkien,https://covers.openlibrary.org/b/id/6979861-L.jpg
+36,The Catcher in the Rye Vol 4,J.D. Salinger,https://covers.openlibrary.org/b/id/8235226-L.jpg
+37,Harry Potter Vol 2,J.K. Rowling,https://covers.openlibrary.org/b/id/7984916-L.jpg
+38,A Game of Thrones Vol 5,George R.R. Martin,https://covers.openlibrary.org/b/id/8235086-L.jpg
+39,To Kill a Mockingbird Vol 3,Harper Lee,https://covers.openlibrary.org/b/id/8228691-L.jpg
+40,The Girl on the Train Vol 2,Paula Hawkins,https://covers.openlibrary.org/b/id/8235087-L.jpg
+41,1984 Vol 5,George Orwell,https://covers.openlibrary.org/b/id/7222246-L.jpg
+42,Educated Vol 5,Tara Westover,https://covers.openlibrary.org/b/id/8235091-L.jpg
+43,The Girl on the Train Vol 1,Paula Hawkins,https://covers.openlibrary.org/b/id/8235087-L.jpg
+44,The Catcher in the Rye Vol 1,J.D. Salinger,https://covers.openlibrary.org/b/id/8235226-L.jpg
+45,It Vol 2,Stephen King,https://covers.openlibrary.org/b/id/8235089-L.jpg
+46,A Game of Thrones Vol 1,George R.R. Martin,https://covers.openlibrary.org/b/id/8235086-L.jpg
+47,Becoming Vol 2,Michelle Obama,https://covers.openlibrary.org/b/id/8235090-L.jpg
+48,To Kill a Mockingbird Vol 3,Harper Lee,https://covers.openlibrary.org/b/id/8228691-L.jpg
+49,The Silent Patient Vol 2,Alex Michaelides,https://covers.openlibrary.org/b/id/8235093-L.jpg
+50,The Hobbit Vol 2,J.R.R. Tolkien,https://covers.openlibrary.org/b/id/6979861-L.jpg
+51,The Girl on the Train Vol 3,Paula Hawkins,https://covers.openlibrary.org/b/id/8235087-L.jpg
+52,To Kill a Mockingbird Vol 4,Harper Lee,https://covers.openlibrary.org/b/id/8228691-L.jpg
+53,Atomic Habits Vol 4,James Clear,https://covers.openlibrary.org/b/id/8235092-L.jpg
+54,Becoming Vol 1,Michelle Obama,https://covers.openlibrary.org/b/id/8235090-L.jpg
+55,Harry Potter Vol 4,J.K. Rowling,https://covers.openlibrary.org/b/id/7984916-L.jpg
+56,A Game of Thrones Vol 3,George R.R. Martin,https://covers.openlibrary.org/b/id/8235086-L.jpg
+57,1984 Vol 5,George Orwell,https://covers.openlibrary.org/b/id/7222246-L.jpg
+58,The Girl on the Train Vol 4,Paula Hawkins,https://covers.openlibrary.org/b/id/8235087-L.jpg
+59,The Great Gatsby Vol 5,F. Scott Fitzgerald,https://covers.openlibrary.org/b/id/7352161-L.jpg
+60,It Vol 3,Stephen King,https://covers.openlibrary.org/b/id/8235089-L.jpg
+61,The Hobbit Vol 1,J.R.R. Tolkien,https://covers.openlibrary.org/b/id/6979861-L.jpg
+62,The Fault in Our Stars Vol 1,John Green,https://covers.openlibrary.org/b/id/8235083-L.jpg
+63,The Hobbit Vol 4,J.R.R. Tolkien,https://covers.openlibrary.org/b/id/6979861-L.jpg
+64,Angels & Demons Vol 3,Dan Brown,https://covers.openlibrary.org/b/id/8235085-L.jpg
+65,Harry Potter Vol 3,J.K. Rowling,https://covers.openlibrary.org/b/id/7984916-L.jpg
+66,The Great Gatsby Vol 1,F. Scott Fitzgerald,https://covers.openlibrary.org/b/id/7352161-L.jpg
+67,The Great Gatsby Vol 2,F. Scott Fitzgerald,https://covers.openlibrary.org/b/id/7352161-L.jpg
+68,Angels & Demons Vol 2,Dan Brown,https://covers.openlibrary.org/b/id/8235085-L.jpg
+69,The Shining Vol 1,Stephen King,https://covers.openlibrary.org/b/id/8235088-L.jpg
+70,The Shining Vol 4,Stephen King,https://covers.openlibrary.org/b/id/8235088-L.jpg
+71,The Hunger Games Vol 3,Suzanne Collins,https://covers.openlibrary.org/b/id/8235082-L.jpg
+72,Harry Potter Vol 5,J.K. Rowling,https://covers.openlibrary.org/b/id/7984916-L.jpg
+73,Angels & Demons Vol 1,Dan Brown,https://covers.openlibrary.org/b/id/8235085-L.jpg
+74,The Hunger Games Vol 1,Suzanne Collins,https://covers.openlibrary.org/b/id/8235082-L.jpg
+75,The Great Gatsby Vol 1,F. Scott Fitzgerald,https://covers.openlibrary.org/b/id/7352161-L.jpg
+76,The Shining Vol 4,Stephen King,https://covers.openlibrary.org/b/id/8235088-L.jpg
+77,The Book Thief Vol 4,Markus Zusak,https://covers.openlibrary.org/b/id/8228692-L.jpg
+78,Harry Potter Vol 2,J.K. Rowling,https://covers.openlibrary.org/b/id/7984916-L.jpg
+79,The Girl on the Train Vol 2,Paula Hawkins,https://covers.openlibrary.org/b/id/8235087-L.jpg
+80,To Kill a Mockingbird Vol 4,Harper Lee,https://covers.openlibrary.org/b/id/8228691-L.jpg
+81,The Hunger Games Vol 4,Suzanne Collins,https://covers.openlibrary.org/b/id/8235082-L.jpg
+82,The Hobbit Vol 3,J.R.R. Tolkien,https://covers.openlibrary.org/b/id/6979861-L.jpg
+83,The Catcher in the Rye Vol 3,J.D. Salinger,https://covers.openlibrary.org/b/id/8235226-L.jpg
+84,The Great Gatsby Vol 4,F. Scott Fitzgerald,https://covers.openlibrary.org/b/id/7352161-L.jpg
+85,The Great Gatsby Vol 5,F. Scott Fitzgerald,https://covers.openlibrary.org/b/id/7352161-L.jpg
+86,The Hunger Games Vol 3,Suzanne Collins,https://covers.openlibrary.org/b/id/8235082-L.jpg
+87,The Shining Vol 3,Stephen King,https://covers.openlibrary.org/b/id/8235088-L.jpg
+88,The Book Thief Vol 4,Markus Zusak,https://covers.openlibrary.org/b/id/8228692-L.jpg
+89,The Book Thief Vol 5,Markus Zusak,https://covers.openlibrary.org/b/id/8228692-L.jpg
+90,The Hobbit Vol 3,J.R.R. Tolkien,https://covers.openlibrary.org/b/id/6979861-L.jpg
+91,Harry Potter Vol 1,J.K. Rowling,https://covers.openlibrary.org/b/id/7984916-L.jpg
+92,Becoming Vol 2,Michelle Obama,https://covers.openlibrary.org/b/id/8235090-L.jpg
+93,The Book Thief Vol 1,Markus Zusak,https://covers.openlibrary.org/b/id/8228692-L.jpg
+94,The Girl on the Train Vol 5,Paula Hawkins,https://covers.openlibrary.org/b/id/8235087-L.jpg
+95,The Hobbit Vol 5,J.R.R. Tolkien,https://covers.openlibrary.org/b/id/6979861-L.jpg
+96,A Game of Thrones Vol 2,George R.R. Martin,https://covers.openlibrary.org/b/id/8235086-L.jpg
+97,1984 Vol 5,George Orwell,https://covers.openlibrary.org/b/id/7222246-L.jpg
+98,The Catcher in the Rye Vol 4,J.D. Salinger,https://covers.openlibrary.org/b/id/8235226-L.jpg
+99,The Hobbit Vol 5,J.R.R. Tolkien,https://covers.openlibrary.org/b/id/6979861-L.jpg
+100,Becoming Vol 5,Michelle Obama,https://covers.openlibrary.org/b/id/8235090-L.jpg
+101,Educated Vol 1,Tara Westover,https://covers.openlibrary.org/b/id/8235091-L.jpg
+102,The Hunger Games Vol 1,Suzanne Collins,https://covers.openlibrary.org/b/id/8235082-L.jpg
+103,A Game of Thrones Vol 4,George R.R. Martin,https://covers.openlibrary.org/b/id/8235086-L.jpg
+104,The Catcher in the Rye Vol 4,J.D. Salinger,https://covers.openlibrary.org/b/id/8235226-L.jpg
+105,The Silent Patient Vol 2,Alex Michaelides,https://covers.openlibrary.org/b/id/8235093-L.jpg
+106,The Fault in Our Stars Vol 4,John Green,https://covers.openlibrary.org/b/id/8235083-L.jpg
+107,The Shining Vol 1,Stephen King,https://covers.openlibrary.org/b/id/8235088-L.jpg
+108,The Catcher in the Rye Vol 3,J.D. Salinger,https://covers.openlibrary.org/b/id/8235226-L.jpg
+109,1984 Vol 4,George Orwell,https://covers.openlibrary.org/b/id/7222246-L.jpg
+110,The Hobbit Vol 4,J.R.R. Tolkien,https://covers.openlibrary.org/b/id/6979861-L.jpg
+111,Inferno Vol 2,Dan Brown,https://covers.openlibrary.org/b/id/8235084-L.jpg
+112,Atomic Habits Vol 1,James Clear,https://covers.openlibrary.org/b/id/8235092-L.jpg
+113,The Fault in Our Stars Vol 1,John Green,https://covers.openlibrary.org/b/id/8235083-L.jpg
+114,The Catcher in the Rye Vol 5,J.D. Salinger,https://covers.openlibrary.org/b/id/8235226-L.jpg
+115,The Catcher in the Rye Vol 1,J.D. Salinger,https://covers.openlibrary.org/b/id/8235226-L.jpg
+116,The Shining Vol 3,Stephen King,https://covers.openlibrary.org/b/id/8235088-L.jpg
+117,The Great Gatsby Vol 2,F. Scott Fitzgerald,https://covers.openlibrary.org/b/id/7352161-L.jpg
+118,1984 Vol 4,George Orwell,https://covers.openlibrary.org/b/id/7222246-L.jpg
+119,Inferno Vol 3,Dan Brown,https://covers.openlibrary.org/b/id/8235084-L.jpg
+120,Angels & Demons Vol 4,Dan Brown,https://covers.openlibrary.org/b/id/8235085-L.jpg
